@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+email:  etienne.dubeau1@ulaval.ca
+phone: (418) 271-1738
+github_username: etiennedub
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+gems: [jekyll-paginate]
+paginate_path: "page:num" 
+# Setup
+title:            "Etienne Dubeau"
+tagline:          'A Jekyll theme'
+description:      'etienne.dubeau.1@ulaval.ca<br/>github.com/etiennedub'
+
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://etiennedub.github.io
+baseurl:          /
+
+author:
+  name:           'Etienne Dubeau'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/poole/hyde
