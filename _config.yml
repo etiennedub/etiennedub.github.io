@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
-email:  etienne.dubeau1@ulaval.ca
+email:  etienne.dubeau.1@ulaval.ca
 phone: (418) 271-1738
 github_username: etiennedub
 
@@ -13,7 +13,7 @@ gems: [jekyll-paginate]
 paginate_path: "page:num" 
 # Setup
 title:            "Etienne Dubeau"
-tagline:          'A Jekyll theme'
+tagline:          'Présentation'
 description:      'etienne.dubeau.1@ulaval.ca<br/>github.com/etiennedub'
 
 # description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
@@ -22,7 +22,6 @@ baseurl:          /
 
 author:
   name:           'Etienne Dubeau'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 

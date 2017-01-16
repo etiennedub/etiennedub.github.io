@@ -1,0 +1,8 @@
+#!/bin/bash
+JAR_FILE="$HOME/XSCP_linux.jar"
+ARGS="$@"
+
+LOG_FILE="$HOME/xscp.log"
+
+echo "Exec : java -jar $JAR_FILE $ARGS" >> $LOG_FILE
+java -jar $JAR_FILE $ARGS >> $LOG_FILE
