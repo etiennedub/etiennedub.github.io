@@ -14,4 +14,4 @@ Je suis un étudiant en Génie informatique et passionné par le domaine. En gé
 * UNIX/Linux
 * VSC (Git, Mercurial)
 
-Pour plus d'information regarder mon [Curriculum Vitae]({{site.url}}/ressources/EtienneDubeau_CV.pdf) ou visiter mes [projets personnels]({{site.url}}/projets).
+Pour plus d'information, regardez mon [Curriculum Vitae]({{site.url}}/ressources/EtienneDubeau_CV.pdf) ou visitez mes [projets personnels]({{site.url}}/projets).
